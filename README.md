@@ -1,5 +1,5 @@
 # Netflix Data Challenge
-This was a classroom data contest hosted on Kaggle by IIT Madras Computer Science Department as PRML data contest. Please follow this link for more details:- [Contest link](https://www.kaggle.com/c/prml19/data)
+This was a classroom data contest hosted on Kaggle by PRML data contest. Please follow this link for more details:- [Contest link](https://www.kaggle.com/c/prml19/data)
 
 ## Authors
 
